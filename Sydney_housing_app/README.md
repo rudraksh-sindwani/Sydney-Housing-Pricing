@@ -4,6 +4,7 @@ Streamlit app that predicts a sale price for a property in Mosman, Parramatta or
 
 ## Setup
 ```
+cd Sydney_housing_app
 pip install -r requirements.txt
 streamlit run app.py
 ```
